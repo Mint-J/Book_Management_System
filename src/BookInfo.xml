@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BOOK>
+	
+	<book ID="8">
+		<name>Java</name>
+		<price>50.0</price>
+		<author>Jason</author>
+		<date>101.0</date>
+	</book>
+	<book ID="12">
+		<name>jason</name>
+		<price>120.0</price>
+		<author>jasonbaba</author>
+		<date>1920.0</date>
+	</book>
+<book ID="6"><name>Mybatis</name><price>129.9</price><author>Jason</author><date>2018.0</date></book></BOOK>
